@@ -1,7 +1,7 @@
 # ============================================================
 # ᴇʟɪɴᴀ ꭙ ᴍᴜsɪᴄ˼ ♪ - Remembers every user (DM) and group so /broadcast can reach them.
 # Runs silently in its own handler group, never blocks other handlers.
-# ============================================================
+# ===========================================================
 from pyrogram import Client, filters
 import db
 
