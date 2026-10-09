@@ -1,0 +1,10 @@
+.git
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+downloads/
+*.zip
+.vscode/
+.idea/
