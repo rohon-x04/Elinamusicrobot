@@ -1,9 +1,0 @@
-kurigram~=2.2.17
-pytgcrypto~=1.2.11
-py-tgcalls~=2.2.8
-py-yt-search~=0.5.5
-imageio-ffmpeg>=0.5.1
-httpx>=0.28.1
-python-dotenv==1.0.1
-Pillow>=10.1.0
-psutil>=5.9.0
